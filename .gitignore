@@ -1,0 +1,6 @@
+*.exe
+*.sdf
+Debug/
+Release/
+*.vcxproj.filters
+*.vcxproj
